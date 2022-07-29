@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{64AE4F5B-6CDB-4F5D-B04F-F18E381CC03B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{64AE4F5B-6CDB-4F5D-B04F-F18E381CC03B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Datos", "Datos", "{710D58DF-EB97-4258-8FCA-197FD331DB15}"
 EndProject
@@ -13,17 +13,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Negocio", "Negocio", "{943C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pruebas", "Pruebas", "{75C9D91B-E70A-4A57-8CB7-5CD817CD9435}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3AF69C88-07D9-433E-B09D-128EC461DDAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{3AF69C88-07D9-433E-B09D-128EC461DDAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A1F6ECEB-3A3C-462B-BC74-607A35056F5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{A1F6ECEB-3A3C-462B-BC74-607A35056F5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{1C43E524-12D6-429F-8D22-949A283A8B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica", "Logica\Logica.csproj", "{1C43E524-12D6-429F-8D22-949A283A8B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesDominio", "EntidadesDominio\EntidadesDominio.csproj", "{F5609A88-645B-4CBB-A37A-BF5E9A1D6308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntidadesDominio", "EntidadesDominio\EntidadesDominio.csproj", "{F5609A88-645B-4CBB-A37A-BF5E9A1D6308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesManager", "InterfacesManager\InterfacesManager.csproj", "{258F9EF8-AB95-470B-AEBC-3233DEFF89C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesManager", "InterfacesManager\InterfacesManager.csproj", "{258F9EF8-AB95-470B-AEBC-3233DEFF89C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{5677FBAE-CEFB-4C99-A38A-71844EF5AC94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositorio", "Repositorio\Repositorio.csproj", "{5677FBAE-CEFB-4C99-A38A-71844EF5AC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{DA1E192E-425D-42E2-8D01-5D7D01755B3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{5677FBAE-CEFB-4C99-A38A-71844EF5AC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5677FBAE-CEFB-4C99-A38A-71844EF5AC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5677FBAE-CEFB-4C99-A38A-71844EF5AC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1E192E-425D-42E2-8D01-5D7D01755B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1E192E-425D-42E2-8D01-5D7D01755B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1E192E-425D-42E2-8D01-5D7D01755B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1E192E-425D-42E2-8D01-5D7D01755B3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +76,7 @@ Global
 		{F5609A88-645B-4CBB-A37A-BF5E9A1D6308} = {943CE19F-ED32-4DBE-A6CF-DB01B8DD6ADE}
 		{258F9EF8-AB95-470B-AEBC-3233DEFF89C9} = {D990D6DC-92EE-4F55-AE8B-23688D7E5D18}
 		{5677FBAE-CEFB-4C99-A38A-71844EF5AC94} = {710D58DF-EB97-4258-8FCA-197FD331DB15}
+		{DA1E192E-425D-42E2-8D01-5D7D01755B3A} = {75C9D91B-E70A-4A57-8CB7-5CD817CD9435}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D5BE515A-97DC-4548-9E50-5D50BD68DE28}

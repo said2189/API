@@ -17,7 +17,7 @@ C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.Generate
 C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
 C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
 C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
-C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
 C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\ref\Logica.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\ada\Downloads\PruebaTecnica\API\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete

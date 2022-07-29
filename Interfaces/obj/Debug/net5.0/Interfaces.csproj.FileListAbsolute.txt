@@ -14,4 +14,3 @@ C:\Users\ada\Downloads\PruebaTecnica\API\Interfaces\obj\Debug\net5.0\Interfaces.
 C:\Users\ada\Downloads\PruebaTecnica\API\Interfaces\obj\Debug\net5.0\Interfaces.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\Interfaces\obj\Debug\net5.0\Interfaces.pdb
-C:\Users\ada\Downloads\PruebaTecnica\API\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CopyComplete

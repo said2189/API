@@ -15,7 +15,7 @@ C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\Inte
 C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\InterfacesManager.AssemblyInfoInputs.cache
 C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\InterfacesManager.AssemblyInfo.cs
 C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\InterfacesManager.csproj.CoreCompileInputs.cache
-C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\InterfacesManager.csproj.CopyComplete
 C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\InterfacesManager.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\ref\InterfacesManager.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\InterfacesManager.pdb
+C:\Users\ada\Downloads\PruebaTecnica\API\InterfacesManager\obj\Debug\net5.0\InterfacesManager.csproj.CopyComplete

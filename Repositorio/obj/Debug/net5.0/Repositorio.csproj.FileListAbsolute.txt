@@ -16,3 +16,4 @@ C:\Users\ada\Downloads\PruebaTecnica\API\Repositorio\obj\Debug\net5.0\Repositori
 C:\Users\ada\Downloads\PruebaTecnica\API\Repositorio\obj\Debug\net5.0\Repositorio.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\Repositorio\obj\Debug\net5.0\ref\Repositorio.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\Repositorio\obj\Debug\net5.0\Repositorio.pdb
+C:\Users\ada\Downloads\PruebaTecnica\API\Repositorio\obj\Debug\net5.0\Repositorio.csproj.CopyComplete

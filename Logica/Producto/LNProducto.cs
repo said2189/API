@@ -3,11 +3,7 @@ using EntidadesDominio.Producto;
 using Interfaces.Producto;
 using InterfacesManager.Producto;
 using Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Logica.Producto
 {
