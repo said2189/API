@@ -19,9 +19,8 @@ namespace API.Controllers
         public ProductosController(DataContext db, IMapper _mapeper)
         {
             this.db = db;
-            this._mapper = _mapeper;
+            _mapper = _mapeper;
         }
-
 
         [HttpGet]
         public IActionResult GetProductos(string buscar, int pagina = 1, int registros_por_pagina = 10)

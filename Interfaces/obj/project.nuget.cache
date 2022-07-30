@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xTscvWseWy7KmBZ4qG7TPyMy15H8l6vmRsrK8OlglHVcB3tIBuRmIMTwEDdIJWK+0xmC/8g3inOyKFcy/7slag==",
+  "dgSpecHash": "kf85kVW6Z6vMltVCH6fvtOp9siDVB2k8qqQAPnf7dumXqDncLJ/LGqFS5JYy5ryh8QDw9NHisw6IqVq3A8qbnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\ada\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\ada\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",
     "C:\\Users\\ada\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.17\\microsoft.entityframeworkcore.analyzers.5.0.17.nupkg.sha512",
+    "C:\\Users\\ada\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.17\\microsoft.entityframeworkcore.inmemory.5.0.17.nupkg.sha512",
     "C:\\Users\\ada\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.17\\microsoft.entityframeworkcore.relational.5.0.17.nupkg.sha512",
     "C:\\Users\\ada\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.17\\microsoft.entityframeworkcore.sqlserver.5.0.17.nupkg.sha512",
     "C:\\Users\\ada\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",

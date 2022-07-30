@@ -71,4 +71,5 @@ C:\Users\ada\Downloads\PruebaTecnica\API\API\bin\Debug\net5.0\Interfaces.pdb
 C:\Users\ada\Downloads\PruebaTecnica\API\API\bin\Debug\net5.0\InterfacesManager.pdb
 C:\Users\ada\Downloads\PruebaTecnica\API\API\bin\Debug\net5.0\Repositorio.pdb
 C:\Users\ada\Downloads\PruebaTecnica\API\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ada\Downloads\PruebaTecnica\API\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\ada\Downloads\PruebaTecnica\API\API\obj\Debug\net5.0\API.csproj.CopyComplete

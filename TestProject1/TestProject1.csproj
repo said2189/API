@@ -17,7 +17,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Logica\Logica.csproj" />
-    <ProjectReference Include="..\Models\Models.csproj" />
   </ItemGroup>
 
 </Project>

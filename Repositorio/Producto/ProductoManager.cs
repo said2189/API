@@ -12,7 +12,7 @@ namespace Repositorio.Producto
 {
     public class ProductoManager : IProducto
     {
-        public List<EDProducto> GetProductos(DataContext db)
+        public IList<EDProducto> GetProductos(DataContext db)
         {
             try
             {

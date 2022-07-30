@@ -10,8 +10,8 @@ namespace Logica.Producto
     public class LNProducto
     {
         private static IProducto Prod = IMProducto.Producto();
-
-        public List<EDProducto> GetProductos(DataContext db)
+     
+        public IList<EDProducto> GetProductos(DataContext db)
         {
             return Prod.GetProductos(db);
         }

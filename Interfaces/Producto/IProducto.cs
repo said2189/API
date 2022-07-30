@@ -7,7 +7,7 @@ namespace Interfaces.Producto
 {
     public interface IProducto
     {
-        List<EDProducto> GetProductos(DataContext db);
+        IList<EDProducto> GetProductos(DataContext db);
         EDProducto GetProducto(int id, DataContext db);
         int GuardarProducto(EDProducto producto, DataContext db, IMapper _mapper);
         int BorrarProducto(int id, DataContext db);

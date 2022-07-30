@@ -291,6 +291,10 @@
               "target": "Package",
               "version": "[5.0.17, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -412,9 +416,6 @@
             "projectReferences": {
               "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Logica\\Logica.csproj": {
                 "projectPath": "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Logica\\Logica.csproj"
-              },
-              "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Models\\Models.csproj"
               }
             }
           }

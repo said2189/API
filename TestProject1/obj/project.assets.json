@@ -2111,6 +2111,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.17",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
         },
@@ -7615,7 +7616,6 @@
       "Microsoft.EntityFrameworkCore >= 5.0.17",
       "Microsoft.EntityFrameworkCore.InMemory >= 5.0.17",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "Models >= 1.0.0",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
       "coverlet.collector >= 3.0.2"
@@ -7650,9 +7650,6 @@
           "projectReferences": {
             "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Logica\\Logica.csproj": {
               "projectPath": "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Logica\\Logica.csproj"
-            },
-            "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\ada\\Downloads\\PruebaTecnica\\API\\Models\\Models.csproj"
             }
           }
         }
